@@ -4,7 +4,7 @@ function App() {
     return (
       <div className="App">
         <h1>Pie Chart Example</h1>
-        <CustomPieChart />
+       <CustomPieChart></CustomPieChart>
       </div>
     );
   }
